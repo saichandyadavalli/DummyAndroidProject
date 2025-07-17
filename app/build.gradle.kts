@@ -1,8 +1,8 @@
 cat <<EOL > app/build.gradle.kts
 android {
     defaultConfig {
-        versionCode = 3
-        versionName = "1.1.1"
+        versionCode = 4
+        versionName = "1.2.1"
     }
 }
 EOL
